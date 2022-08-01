@@ -1,0 +1,42 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(225, 224, 222);
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(138, 83, 83);
+    
+}
+
+img {
+    width:600px;
+    height:auto;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: none;
+}
+
+.ingredients {
+    border:2px solid rgb(138, 83, 83)
+}
+
+ol {
+    text-align: left;
+}
+
+.steps li {
+    padding: 5px;
+}
+
+li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li a:hover {
+    color:white;
+}
